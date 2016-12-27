@@ -1,4 +1,4 @@
-# libap
+![libap logo](http://i.imgur.com/Tnf3AiY.png)
 
 An Asio-based cross-platform library in C++ for Piwik. 
 
